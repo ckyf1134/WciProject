@@ -23,8 +23,8 @@ while 1 == 1:#大循环，维持程序运行，只要不break就不会退出
     elif 'printf' in x:
         toremove="printf"
         toremove2="'" #删除printf(''),留输入文字
-        toremove3="("
-        toremove4=")"
+        toremove3="{"
+        toremove4="}"
         toremove5='"'
         x=x.replace(toremove,'')
         x=x.replace(toremove2,'')
