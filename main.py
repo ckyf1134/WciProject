@@ -26,6 +26,8 @@ while 1 == 1:#大循环，维持程序运行，只要不break就不会退出
         print('exit......')
         time.sleep(1)
         break
+    elif x == '':
+        1 == 1
     elif 'printf' in x:
         if "'" in x:
             toremove="printf"
