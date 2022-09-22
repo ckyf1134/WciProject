@@ -1,4 +1,13 @@
 # WciProject
+
+ ___       __       ________      ___<br>     
+|\  \     |\  \    |\   ____\    |\  \<br>    
+\ \  \    \ \  \   \ \  \___|    \ \  \<br>   
+ \ \  \  __\ \  \   \ \  \        \ \  \<br>  
+  \ \  \|\__\_\  \   \ \  \____    \ \  \<br> 
+   \ \____________\   \ \_______\   \ \__\<br>
+    \|____________|    \|_______|    \|__|<br>
+
 Wci is a concise interpreted language based on C and Python.
 
 2022.9.22 WciProject Start.
