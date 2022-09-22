@@ -9,6 +9,9 @@ print(' ')
 print('Wci 1.0.0 (Sep 22 2022, 9:17:52) [64 bit (AMD64)] on win32')
 #引用库
 import time
+#定义
+def error1():
+    print('"',x,'"','not a legal syntax.')
 while 1 == 1:#大循环，维持程序运行，只要不break就不会退出
     live=1
     while live == 1:
@@ -31,7 +34,10 @@ while 1 == 1:#大循环，维持程序运行，只要不break就不会退出
         x=x.replace(toremove3,'')
         x=x.replace(toremove4,'')
         x=x.replace(toremove5,'')
-        print(x)
+        if '(' in x:
+            error1()
+        else:
+            print(x)
     else:
-        print('"',x,'"','not a legal syntax.')
+        error1()
  
