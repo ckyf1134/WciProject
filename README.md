@@ -1,12 +1,12 @@
 # WciProject
 
- #         #   # # # # #   # # # 
- #    #    #  #         #    #  
- #    #    #  #              #  
- #    #    #  #              #  
- #    #    #  #              #  
- #    #    #  #         #    #  
-   ##   ##     # # # # #   # # # 
+ %         %   % % % % %   % % %  
+ %    %    %  %         %    %    
+ %    %    %  %              %    
+ %    %    %  %              %    
+ %    %    %  %              %    
+ %    %    %  %         %    %    
+   %%   %%     % % % % %   % % %   
                        
 Wci is a concise interpreted language based on C and Python.
 
