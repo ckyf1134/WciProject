@@ -16,7 +16,7 @@ The code I wrote only has version function, and others are waiting for you to cr
 You can run like this:
 
 >>>printf{'hello world'}
-hello world
+>>>hello world
 
 
 #To-do
