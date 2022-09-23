@@ -1,6 +1,6 @@
 # WciProject
 
-Wci is a concise interpreted language based on C and Python.
+Wci is a concise interpreted language like Python based on C.But it is faster,simpler,stronger.
 
 2022.9.22 WciProject Start.
 
@@ -38,8 +38,14 @@ You can run like this:
 
 ▢others
 
+#Warning
+
 Tell all people:
+
 This Project "Wci" stop to develop.
+
 It is too simple to use.
+
 So I will learn more C/C++ to write it better.
+
 Wait me back.
